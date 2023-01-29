@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">hw_6_month_3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="talk_me_down">Talk Me Down</string>
+    <string name="blue_neighbourhood">Blue Neighbourhood</string>
+    <string name="one">1</string>
+    <string name="blank_spase">Blank Spase</string>
+    <string name="taylor_swift">Taylor Swift</string>
+    <string name="duration">3:22</string>
+    <string name="text">text</string>
+</resources>
